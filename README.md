@@ -1,2 +1,2 @@
-Official temporary mirror of Intercepter-NG builds.
+Intercepter-NG
 ======
